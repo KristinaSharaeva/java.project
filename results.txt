@@ -1,0 +1,10 @@
+Operation 1: Toy ID: 1
+Operation 2: Toy ID: 2
+Operation 3: Toy ID: 2
+Operation 4: Toy ID: 3
+Operation 5: Toy ID: 2
+Operation 6: Toy ID: 3
+Operation 7: Toy ID: 3
+Operation 8: Toy ID: 2
+Operation 9: Toy ID: 3
+Operation 10: Toy ID: 3
